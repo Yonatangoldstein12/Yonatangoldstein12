@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yonatan</h1>
+<h1 align="center">Welcome, I'm Yonatan</h1>
 <h3 align="center">A Full-Stack developer from Israel</h3>
+<h4 align="left">about me:</h4>
+<div>I Served in transparent elite unit of the navy for almost 3 years.
+ Recently I graduated from the Sela college special program for IDF combat soldiers, it was intense course with a lot of learning and experience I am really grateful fot this opportunity.
+ </div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yonatangoldstein12](https://github.com/Yonatangoldstein12)
 
